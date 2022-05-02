@@ -26,3 +26,4 @@ public class Array<E> implements Iterable
         };
     }
 }
+sieht man das?
